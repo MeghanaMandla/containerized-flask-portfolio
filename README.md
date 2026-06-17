@@ -22,12 +22,12 @@ A portfolio web application developed using Flask and Docker. This project demon
 
 ## Project Structure
 
-app.py
-requirements.txt
-Dockerfile
-static/
-templates/
-README.md
+- app.py
+- requirements.txt
+- Dockerfile
+- static/
+- templates/
+- README.md
 
 ## How to Run
 
